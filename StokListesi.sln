@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StokListesi", "StokListesi\StokListesi.csproj", "{7EB931F0-3C6D-4593-B53D-3C8B12719695}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "raporexe", "raporexe\raporexe.vdproj", "{323CFB8A-FF8E-42F5-9B71-07B4EC60672B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB931F0-3C6D-4593-B53D-3C8B12719695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB931F0-3C6D-4593-B53D-3C8B12719695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB931F0-3C6D-4593-B53D-3C8B12719695}.Debug|x86.ActiveCfg = Debug|x86
+		{7EB931F0-3C6D-4593-B53D-3C8B12719695}.Debug|x86.Build.0 = Debug|x86
+		{7EB931F0-3C6D-4593-B53D-3C8B12719695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB931F0-3C6D-4593-B53D-3C8B12719695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB931F0-3C6D-4593-B53D-3C8B12719695}.Release|x86.ActiveCfg = Release|x86
+		{7EB931F0-3C6D-4593-B53D-3C8B12719695}.Release|x86.Build.0 = Release|x86
+		{323CFB8A-FF8E-42F5-9B71-07B4EC60672B}.Debug|Any CPU.ActiveCfg = Debug
+		{323CFB8A-FF8E-42F5-9B71-07B4EC60672B}.Debug|x86.ActiveCfg = Debug
+		{323CFB8A-FF8E-42F5-9B71-07B4EC60672B}.Release|Any CPU.ActiveCfg = Release
+		{323CFB8A-FF8E-42F5-9B71-07B4EC60672B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB893D88-C6F4-4859-A70D-4F7297202280}
+	EndGlobalSection
+EndGlobal
